@@ -1,0 +1,313 @@
+{
+  "services": [
+    {
+      "name": "CERAMIC COATINGS",
+      "id": "ceramic_coatings",
+      "features": [
+        {
+          "name": "SPORT",
+          "price": "$350",
+          "duration": "1 Day",
+          "details": [
+            "Single application of ceramic to paint and bodywork",
+            "Exterior vinyl and plastic-coated",
+            "Headlights and taillights coated"
+          ]
+        },
+        {
+          "name": "BRONZE",
+          "price": "$600",
+          "duration": "1 Day",
+          "details": [
+            "Single application of ceramic to paint and body work",
+            "Wheel faces only coated",
+            "Windshield coated",
+            "Exterior vinyl and plastics coated",
+            "Headlights and taillights coated",
+            "Includes 2-year warranty (see detailer for information)"
+          ]
+        },
+        {
+          "name": "SILVER",
+          "price": "$1,000",
+          "duration": "1 Day",
+          "details": [
+            "Includes our Milan Enhancement Polish package",
+            "Double application of ceramic coating to paint and body work",
+            "Infrared (IR) curing",
+            "Wheel faces only coated",
+            "Windshield coated",
+            "Exterior vinyl and plastics coated",
+            "Headlights and taillights coated",
+            "Includes a free maintenance wash following application",
+            "Headlights and taillights coated",
+            "Includes 5-year warranty (see detailer for information)"
+          ]
+        },
+        {
+          "name": "GOLD",
+          "price": "$1,500",
+          "duration": "2-3 Days",
+          "details": [
+            "Includes our Milan Enhancement Polish package",
+            "Five applications of ceramic coating to paint and body work",
+            "Infrared (IR) curing",
+            "Wheel faces only coated",
+            "Windshield coated",
+            "Exterior vinyl and plastics coated",
+            "Headlights and taillights coated",
+            "Includes a free maintenance wash following application",
+            "Includes lifetime warranty (see detailer for information)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PAINT CORRECTION AND POLISHING",
+      "id": "paint_correction_and_polishing",
+      "features": [
+        {
+          "name": "MILAN | ENHANCEMENT POLISH",
+          "price": "$200",
+          "duration": "2 Hours",
+          "details": [
+            "Includes our Milan| clay & seal package",
+            "Paint decontamination",
+            "1-step (or stage) polishing",
+            "Includes paint sealant"
+          ]
+        },
+        {
+          "name": "MILAN | STAGE 1 CORRECTION",
+          "price": "$500",
+          "duration": "3 - 4 Hours",
+          "details": [
+            "Includes our Milan| Clay & Seal package",
+            "Paint decontamination",
+            "1-step (or stage) polishing",
+            "We aim for 50%+ defect removal",
+            "Includes paint sealant"
+          ]
+        },
+        {
+          "name": "MILAN | STAGE 2 CORRECTION",
+          "price": "$1,000",
+          "duration": "1 Day",
+          "details": [
+            "Paint decontamination",
+            "3-step (or stage) cutting, polishing, and jeweling",
+            "We aim for 75%+ defect removal",
+            "Includes paint sealant"
+          ]
+        },
+        {
+          "name": "MILAN | STAGE 3 WET SAND CORRECTION",
+          "price": "$1,500",
+          "duration": "2 Days",
+          "details": [
+            "Includes our Milan| Clay & Seal package",
+            "Paint decontamination",
+            "3-step (or stage) cutting, polishing, and jeweling",
+            "2+3 wet sanding or color sanding",
+            "We aim for 90%+ defect removal",
+            "Includes paint sealant"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FULL DETAIL PACKAGES",
+      "id": "full_detail_packages",
+      "features": [
+        {
+          "name": "MILAN | SIGNATURE",
+          "price": "$75",
+          "duration": "1 Day",
+          "details": [
+            "Vacuum floors and trunk area",
+            "Wipe down vinyl or plastic floor mats",
+            "Vacuum cloth seats",
+            "Wipe leather seats down",
+            "Clean console, cup holders, crevices, and vents",
+            "Clean dash and UV protect",
+            "Clean door jambs",
+            "Clean glass inside and out",
+            "Shampoo cloth floor mats",
+            "Hand wash wheels and tires",
+            "Apply no-sling tire dressing"
+          ]
+        },
+        {
+          "name": "MILAN | SILVER",
+          "price": "$250",
+          "duration": "1 Day",
+          "details": [
+            "Vacuum floors and trunk area",
+            "Clean console, cup holders, crevices, and vents",
+            "Clean all interior trim and plastics",
+            "Clean and condition door panels and pockets",
+            "Clean door jambs",
+            "Clean glass inside and out",
+            "Shampoo cloth floor mats",
+            "Deep clean and condition leather seats",
+            "Apply protective treatment to leather and vinyl",
+            "Two bucket hand wash",
+            "Hand wash wheels and tires",
+            "And many more"
+          ]
+        },
+        {
+          "name": "MILAN | GOLD",
+          "price": "$350",
+          "duration": "1 Day",
+          "details": [
+            "Clean vehicle headliner",
+            "Shampoo carpeting in cabin and trunk",
+            "Shampoo cloth seats",
+            "Deep clean and condition leather seats",
+            "Apply protective treatment to carpets and cloth seats",
+            "Apply protective treatment to leather and vinyl",
+            "Two bucket hand wash",
+            "Hand wash wheels and tires",
+            "Decontaminate paint to remove minor bugs/tar/grime",
+            "Decontaminate remaining impurities with clay-bar",
+            "Apply trim dressing",
+            "And many more"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EXTERIOR AND INTERIOR DETAILING",
+      "id": "exterior_and_interior_detailing",
+      "features": [
+        {
+          "name": "MILAN | CLAY & SEAL",
+          "price": "$150",
+          "duration": "1 Day",
+          "details": [
+            "Two bucket hand wash",
+            "Hand wash wheels and tires",
+            "Decontaminate paint to remove minor bugs/tar/grime",
+            "Decontaminate remaining impurities with clay-bar",
+            "Apply trim dressing",
+            "Apply no-sling tire dressing",
+            "Apply a 6-month paint sealant",
+            "Apply protectant to exterior trim",
+            "Apply hydrophobic windshield treatment",
+            "Optional upgrade to 3-year or 5-year ceramic coating"
+          ]
+        },
+        {
+          "name": "MILAN | INTERIOR",
+          "price": "$200",
+          "duration": "1 Day",
+          "details": [
+            "Vacuum floors and trunk area",
+            "Wipe down vinyl or plastic floor mats",
+            "Vacuum cloth seats",
+            "Wipe leather seats down",
+            "Clean console, cup holders, crevices, and vents",
+            "Clean dash and UV protect",
+            "Clean all interior trim and plastics",
+            "Clean and condition door panels and pockets",
+            "Clean door jambs",
+            "Clean glass inside and out",
+            "Clean vehicle headliner",
+            "Shampoo cloth floor mats",
+            "Shampoo carpeting in cabin and trunk",
+            "And many more"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BOAT / RV / AVIATION DETAILING",
+      "id": "boat_rv_aviation_detailing",
+      "features": [
+        {
+          "name": "MILAN | MARINE 1 POLISH",
+          "price": "$25",
+          "duration": "1 Day",
+          "details": [
+            "Includes our Milan | clay & Seal package",
+            "Paint decontamination",
+            "1-step (or stage) polishing",
+            "We aim for 50%+ defect removal",
+            "Includes paint sealant"
+          ]
+        },
+        {
+          "name": "MILAN | MARINE 2",
+          "price": "$25",
+          "duration": "1 Day",
+          "details": [
+            "Includes our Milan | Clay & Seal package",
+            "Paint decontamination",
+            "2-step (or stage) compound and polish",
+            "We aim for 75%+ defect removal",
+            "Includes wax",
+            "Includes hybrid ceramic sealant",
+            "Interior vacuum"
+          ]
+        },
+        {
+          "name": "MILAN | MARINE 3",
+          "price": "$75",
+          "duration": "1 - 2 Days",
+          "details": [
+            "Includes our Milan | Clay & Seal package",
+            "Paint decontamination",
+            "3-step (or stage) cutting, polishing, and jeweling",
+            "2+3 wet sanding or color sanding",
+            "We aim for 90%+ defect removal",
+            "Includes hybrid ceramic sealant",
+            "Includes wax"
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What types of land do you offer?",
+      "answer": "We offer a variety of land types to suit your needs, including: \nResidential land for building homes or housing developments.\nCommercial land for businesses or industrial purposes.\nAgricultural land for farming and cultivation.\nInvestment land in up-and-coming areas for future profit. Our listings span multiple regions, and we can help you find the perfect property for your specific needs."
+    },
+    {
+      "question": "How do I verify the land ownership and title before purchasing?",
+      "answer": "We ensure all necessary due diligence is completed before listing any land for sale. Our team will help you verify the land's legal title and ownership status by working with local authorities and title offices. You will receive complete documentation to confirm that the property is free of any encumbrances or disputes."
+    },
+    {
+      "question": "What are the zoning laws and restrictions for the land I want to buy?",
+      "answer": "Each property may have specific zoning laws and regulations that govern how it can be used. Before making a purchase, we’ll provide you with all the necessary information on zoning restrictions, such as whether the land is zoned for residential, commercial, agricultural, or mixed use. We also help guide you through any permits or approvals you might need for development."
+    },
+    {
+      "question": "Can I build on the land immediately after purchasing it?",
+      "answer": "In most cases, yes, but it depends on the land’s current condition and the required permits. Some properties may need additional infrastructure like utilities (water, electricity) or clearing, while others may be ready for immediate construction. We assist you in understanding the steps needed for development and construction, including securing any necessary permits."
+    },
+    {
+      "question": "What are the ongoing costs associated with land ownership?",
+      "answer": "Ongoing costs for land ownership may include property taxes, maintenance fees, and costs for utilities if you plan to develop the land. Agricultural and commercial properties may also incur additional operational costs. We will provide you with an estimate of all potential ongoing costs before finalizing your purchase to ensure you can budget accordingly."
+    },
+    {
+      "question": "Can I visit the property before making a purchase?",
+      "answer": "Absolutely! We encourage all prospective buyers to visit the land in person. This allows you to better understand the terrain, surroundings, and accessibility. We will help arrange property visits, providing all relevant information and a representative to assist during your visit."
+    },
+    {
+      "question": "How do I know the land is not disputed or encumbered?",
+      "answer": "We conduct a thorough title search before listing any property for sale. Our legal team ensures that the land is free of any disputes, encumbrances, or legal restrictions. You will also receive full documentation, including the legal title and proof of ownership, before the transaction is finalized."
+    },
+    {
+      "question": "Do you offer any development services or recommendations?",
+      "answer": "Yes, we partner with reputable developers and construction companies to help you build on your land. Whether you need residential or commercial development, we can recommend trusted service providers who specialize in infrastructure development, building design, and project management."
+    },
+    {
+      "question": "What happens if I change my mind after purchasing the land?",
+      "answer": "Once the sale is finalized and ownership is transferred, all sales are typically considered final. However, in some cases, we may assist with reselling the land if you change your mind. Be sure to discuss your options with our sales team before making a final decision."
+    },
+    {
+      "question": "What is the process of transferring ownership after I buy land?",
+      "answer": "After purchasing land, the process of ownership transfer includes the following steps: \nSigning a sales agreement between the buyer and seller. \nClearing any outstanding payments or taxes on the property. \nRegistering the land title with local authorities to transfer legal ownership to you. Our team assists with this entire process to ensure smooth and secure ownership transfer."
+    }
+  ]
+}
