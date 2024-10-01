@@ -1,8 +1,8 @@
 {
-  "name": "quasar-starter",
+  "name": "landtify-home",
   "version": "0.0.1",
-  "description": "Quasar starter app",
-  "productName": "Quasar starter app",
+  "description": "Landtify.com",
+  "productName": "Landtify.com",
   "author": "YAV.AI <contact@yav.ai>",
   "private": true,
   "scripts": {
